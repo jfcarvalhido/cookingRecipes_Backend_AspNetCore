@@ -1,0 +1,126 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ju_li\\OneDrive\\Documentos\\Coder Developer\\Projeto Prático\\2ª Parte\\RecipesApp_users\\RecipesApp.Services\\RecipesApp.Services.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ju_li\\OneDrive\\Documentos\\Coder Developer\\Projeto Prático\\2ª Parte\\RecipesApp_users\\RecipesApp.Domain\\RecipesApp.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ju_li\\OneDrive\\Documentos\\Coder Developer\\Projeto Prático\\2ª Parte\\RecipesApp_users\\RecipesApp.Domain\\RecipesApp.Domain.csproj",
+        "projectName": "RecipesApp.Domain",
+        "projectPath": "C:\\Users\\ju_li\\OneDrive\\Documentos\\Coder Developer\\Projeto Prático\\2ª Parte\\RecipesApp_users\\RecipesApp.Domain\\RecipesApp.Domain.csproj",
+        "packagesPath": "C:\\Users\\ju_li\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ju_li\\OneDrive\\Documentos\\Coder Developer\\Projeto Prático\\2ª Parte\\RecipesApp_users\\RecipesApp.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ju_li\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.15, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ju_li\\OneDrive\\Documentos\\Coder Developer\\Projeto Prático\\2ª Parte\\RecipesApp_users\\RecipesApp.Services\\RecipesApp.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ju_li\\OneDrive\\Documentos\\Coder Developer\\Projeto Prático\\2ª Parte\\RecipesApp_users\\RecipesApp.Services\\RecipesApp.Services.csproj",
+        "projectName": "RecipesApp.Services",
+        "projectPath": "C:\\Users\\ju_li\\OneDrive\\Documentos\\Coder Developer\\Projeto Prático\\2ª Parte\\RecipesApp_users\\RecipesApp.Services\\RecipesApp.Services.csproj",
+        "packagesPath": "C:\\Users\\ju_li\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ju_li\\OneDrive\\Documentos\\Coder Developer\\Projeto Prático\\2ª Parte\\RecipesApp_users\\RecipesApp.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ju_li\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\ju_li\\OneDrive\\Documentos\\Coder Developer\\Projeto Prático\\2ª Parte\\RecipesApp_users\\RecipesApp.Domain\\RecipesApp.Domain.csproj": {
+                "projectPath": "C:\\Users\\ju_li\\OneDrive\\Documentos\\Coder Developer\\Projeto Prático\\2ª Parte\\RecipesApp_users\\RecipesApp.Domain\\RecipesApp.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

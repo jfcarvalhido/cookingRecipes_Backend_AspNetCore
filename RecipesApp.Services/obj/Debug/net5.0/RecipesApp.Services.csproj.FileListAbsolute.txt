@@ -1,0 +1,45 @@
+C:\Users\ju_li\OneDrive\Documentos\Coder Developer\Projeto Prático\2ª Parte\RecipesApp\RecipesApp.Services\bin\Debug\net5.0\RecipesApp.Services.deps.json
+C:\Users\ju_li\OneDrive\Documentos\Coder Developer\Projeto Prático\2ª Parte\RecipesApp\RecipesApp.Services\bin\Debug\net5.0\RecipesApp.Services.dll
+C:\Users\ju_li\OneDrive\Documentos\Coder Developer\Projeto Prático\2ª Parte\RecipesApp\RecipesApp.Services\bin\Debug\net5.0\RecipesApp.Services.pdb
+C:\Users\ju_li\OneDrive\Documentos\Coder Developer\Projeto Prático\2ª Parte\RecipesApp\RecipesApp.Services\bin\Debug\net5.0\RecipesApp.Domain.dll
+C:\Users\ju_li\OneDrive\Documentos\Coder Developer\Projeto Prático\2ª Parte\RecipesApp\RecipesApp.Services\bin\Debug\net5.0\RecipesApp.Domain.pdb
+C:\Users\ju_li\OneDrive\Documentos\Coder Developer\Projeto Prático\2ª Parte\RecipesApp\RecipesApp.Services\obj\Debug\net5.0\RecipesApp.Services.csproj.AssemblyReference.cache
+C:\Users\ju_li\OneDrive\Documentos\Coder Developer\Projeto Prático\2ª Parte\RecipesApp\RecipesApp.Services\obj\Debug\net5.0\RecipesApp.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ju_li\OneDrive\Documentos\Coder Developer\Projeto Prático\2ª Parte\RecipesApp\RecipesApp.Services\obj\Debug\net5.0\RecipesApp.Services.AssemblyInfoInputs.cache
+C:\Users\ju_li\OneDrive\Documentos\Coder Developer\Projeto Prático\2ª Parte\RecipesApp\RecipesApp.Services\obj\Debug\net5.0\RecipesApp.Services.AssemblyInfo.cs
+C:\Users\ju_li\OneDrive\Documentos\Coder Developer\Projeto Prático\2ª Parte\RecipesApp\RecipesApp.Services\obj\Debug\net5.0\RecipesApp.Services.csproj.CoreCompileInputs.cache
+C:\Users\ju_li\OneDrive\Documentos\Coder Developer\Projeto Prático\2ª Parte\RecipesApp\RecipesApp.Services\obj\Debug\net5.0\RecipesApp.Services.csproj.CopyComplete
+C:\Users\ju_li\OneDrive\Documentos\Coder Developer\Projeto Prático\2ª Parte\RecipesApp\RecipesApp.Services\obj\Debug\net5.0\RecipesApp.Services.dll
+C:\Users\ju_li\OneDrive\Documentos\Coder Developer\Projeto Prático\2ª Parte\RecipesApp\RecipesApp.Services\obj\Debug\net5.0\refint\RecipesApp.Services.dll
+C:\Users\ju_li\OneDrive\Documentos\Coder Developer\Projeto Prático\2ª Parte\RecipesApp\RecipesApp.Services\obj\Debug\net5.0\RecipesApp.Services.pdb
+C:\Users\ju_li\OneDrive\Documentos\Coder Developer\Projeto Prático\2ª Parte\RecipesApp\RecipesApp.Services\obj\Debug\net5.0\ref\RecipesApp.Services.dll
+C:\Users\Bruno Ribeiro\OneDrive\RecipesApp\RecipesApp.Services\bin\Debug\net5.0\RecipesApp.Services.deps.json
+C:\Users\Bruno Ribeiro\OneDrive\RecipesApp\RecipesApp.Services\bin\Debug\net5.0\RecipesApp.Services.dll
+C:\Users\Bruno Ribeiro\OneDrive\RecipesApp\RecipesApp.Services\bin\Debug\net5.0\RecipesApp.Services.pdb
+C:\Users\Bruno Ribeiro\OneDrive\RecipesApp\RecipesApp.Services\bin\Debug\net5.0\RecipesApp.Domain.dll
+C:\Users\Bruno Ribeiro\OneDrive\RecipesApp\RecipesApp.Services\bin\Debug\net5.0\RecipesApp.Domain.pdb
+C:\Users\Bruno Ribeiro\OneDrive\RecipesApp\RecipesApp.Services\obj\Debug\net5.0\RecipesApp.Services.csproj.AssemblyReference.cache
+C:\Users\Bruno Ribeiro\OneDrive\RecipesApp\RecipesApp.Services\obj\Debug\net5.0\RecipesApp.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno Ribeiro\OneDrive\RecipesApp\RecipesApp.Services\obj\Debug\net5.0\RecipesApp.Services.AssemblyInfoInputs.cache
+C:\Users\Bruno Ribeiro\OneDrive\RecipesApp\RecipesApp.Services\obj\Debug\net5.0\RecipesApp.Services.AssemblyInfo.cs
+C:\Users\Bruno Ribeiro\OneDrive\RecipesApp\RecipesApp.Services\obj\Debug\net5.0\RecipesApp.Services.csproj.CoreCompileInputs.cache
+C:\Users\Bruno Ribeiro\OneDrive\RecipesApp\RecipesApp.Services\obj\Debug\net5.0\RecipesApp.Services.csproj.CopyComplete
+C:\Users\Bruno Ribeiro\OneDrive\RecipesApp\RecipesApp.Services\obj\Debug\net5.0\RecipesApp.Services.dll
+C:\Users\Bruno Ribeiro\OneDrive\RecipesApp\RecipesApp.Services\obj\Debug\net5.0\refint\RecipesApp.Services.dll
+C:\Users\Bruno Ribeiro\OneDrive\RecipesApp\RecipesApp.Services\obj\Debug\net5.0\RecipesApp.Services.pdb
+C:\Users\Bruno Ribeiro\OneDrive\RecipesApp\RecipesApp.Services\obj\Debug\net5.0\ref\RecipesApp.Services.dll
+C:\Users\ju_li\OneDrive\Documentos\Coder Developer\Projeto Prático\2ª Parte\RecipesApp_users\RecipesApp.Services\bin\Debug\net5.0\RecipesApp.Services.deps.json
+C:\Users\ju_li\OneDrive\Documentos\Coder Developer\Projeto Prático\2ª Parte\RecipesApp_users\RecipesApp.Services\bin\Debug\net5.0\RecipesApp.Services.dll
+C:\Users\ju_li\OneDrive\Documentos\Coder Developer\Projeto Prático\2ª Parte\RecipesApp_users\RecipesApp.Services\bin\Debug\net5.0\RecipesApp.Services.pdb
+C:\Users\ju_li\OneDrive\Documentos\Coder Developer\Projeto Prático\2ª Parte\RecipesApp_users\RecipesApp.Services\bin\Debug\net5.0\RecipesApp.Domain.dll
+C:\Users\ju_li\OneDrive\Documentos\Coder Developer\Projeto Prático\2ª Parte\RecipesApp_users\RecipesApp.Services\bin\Debug\net5.0\RecipesApp.Domain.pdb
+C:\Users\ju_li\OneDrive\Documentos\Coder Developer\Projeto Prático\2ª Parte\RecipesApp_users\RecipesApp.Services\obj\Debug\net5.0\RecipesApp.Services.csproj.AssemblyReference.cache
+C:\Users\ju_li\OneDrive\Documentos\Coder Developer\Projeto Prático\2ª Parte\RecipesApp_users\RecipesApp.Services\obj\Debug\net5.0\RecipesApp.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ju_li\OneDrive\Documentos\Coder Developer\Projeto Prático\2ª Parte\RecipesApp_users\RecipesApp.Services\obj\Debug\net5.0\RecipesApp.Services.AssemblyInfoInputs.cache
+C:\Users\ju_li\OneDrive\Documentos\Coder Developer\Projeto Prático\2ª Parte\RecipesApp_users\RecipesApp.Services\obj\Debug\net5.0\RecipesApp.Services.AssemblyInfo.cs
+C:\Users\ju_li\OneDrive\Documentos\Coder Developer\Projeto Prático\2ª Parte\RecipesApp_users\RecipesApp.Services\obj\Debug\net5.0\RecipesApp.Services.csproj.CoreCompileInputs.cache
+C:\Users\ju_li\OneDrive\Documentos\Coder Developer\Projeto Prático\2ª Parte\RecipesApp_users\RecipesApp.Services\obj\Debug\net5.0\RecipesApp.Services.csproj.CopyComplete
+C:\Users\ju_li\OneDrive\Documentos\Coder Developer\Projeto Prático\2ª Parte\RecipesApp_users\RecipesApp.Services\obj\Debug\net5.0\RecipesApp.Services.dll
+C:\Users\ju_li\OneDrive\Documentos\Coder Developer\Projeto Prático\2ª Parte\RecipesApp_users\RecipesApp.Services\obj\Debug\net5.0\refint\RecipesApp.Services.dll
+C:\Users\ju_li\OneDrive\Documentos\Coder Developer\Projeto Prático\2ª Parte\RecipesApp_users\RecipesApp.Services\obj\Debug\net5.0\RecipesApp.Services.pdb
+C:\Users\ju_li\OneDrive\Documentos\Coder Developer\Projeto Prático\2ª Parte\RecipesApp_users\RecipesApp.Services\obj\Debug\net5.0\ref\RecipesApp.Services.dll

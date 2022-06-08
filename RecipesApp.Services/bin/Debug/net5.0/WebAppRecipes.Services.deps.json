@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "WebAppRecipes.Services/1.0.0": {
+        "dependencies": {
+          "WebAppRecipes.Domain": "1.0.0"
+        },
+        "runtime": {
+          "WebAppRecipes.Services.dll": {}
+        }
+      },
+      "WebAppRecipes.Domain/1.0.0": {
+        "runtime": {
+          "WebAppRecipes.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WebAppRecipes.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WebAppRecipes.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

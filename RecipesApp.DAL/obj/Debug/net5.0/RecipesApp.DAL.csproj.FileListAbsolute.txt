@@ -1,0 +1,54 @@
+C:\Users\ju_li\OneDrive\Documentos\Coder Developer\Projeto Prático\2ª Parte\RecipesApp\RecipesApp.DAL\bin\Debug\net5.0\RecipesApp.DAL.deps.json
+C:\Users\ju_li\OneDrive\Documentos\Coder Developer\Projeto Prático\2ª Parte\RecipesApp\RecipesApp.DAL\bin\Debug\net5.0\RecipesApp.DAL.runtimeconfig.json
+C:\Users\ju_li\OneDrive\Documentos\Coder Developer\Projeto Prático\2ª Parte\RecipesApp\RecipesApp.DAL\bin\Debug\net5.0\RecipesApp.DAL.runtimeconfig.dev.json
+C:\Users\ju_li\OneDrive\Documentos\Coder Developer\Projeto Prático\2ª Parte\RecipesApp\RecipesApp.DAL\bin\Debug\net5.0\RecipesApp.DAL.dll
+C:\Users\ju_li\OneDrive\Documentos\Coder Developer\Projeto Prático\2ª Parte\RecipesApp\RecipesApp.DAL\bin\Debug\net5.0\RecipesApp.DAL.pdb
+C:\Users\ju_li\OneDrive\Documentos\Coder Developer\Projeto Prático\2ª Parte\RecipesApp\RecipesApp.DAL\bin\Debug\net5.0\RecipesApp.Domain.dll
+C:\Users\ju_li\OneDrive\Documentos\Coder Developer\Projeto Prático\2ª Parte\RecipesApp\RecipesApp.DAL\bin\Debug\net5.0\RecipesApp.Domain.pdb
+C:\Users\ju_li\OneDrive\Documentos\Coder Developer\Projeto Prático\2ª Parte\RecipesApp\RecipesApp.DAL\obj\Debug\net5.0\RecipesApp.DAL.csproj.AssemblyReference.cache
+C:\Users\ju_li\OneDrive\Documentos\Coder Developer\Projeto Prático\2ª Parte\RecipesApp\RecipesApp.DAL\obj\Debug\net5.0\RecipesApp.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ju_li\OneDrive\Documentos\Coder Developer\Projeto Prático\2ª Parte\RecipesApp\RecipesApp.DAL\obj\Debug\net5.0\RecipesApp.DAL.AssemblyInfoInputs.cache
+C:\Users\ju_li\OneDrive\Documentos\Coder Developer\Projeto Prático\2ª Parte\RecipesApp\RecipesApp.DAL\obj\Debug\net5.0\RecipesApp.DAL.AssemblyInfo.cs
+C:\Users\ju_li\OneDrive\Documentos\Coder Developer\Projeto Prático\2ª Parte\RecipesApp\RecipesApp.DAL\obj\Debug\net5.0\RecipesApp.DAL.csproj.CoreCompileInputs.cache
+C:\Users\ju_li\OneDrive\Documentos\Coder Developer\Projeto Prático\2ª Parte\RecipesApp\RecipesApp.DAL\obj\Debug\net5.0\RecipesApp.DAL.csproj.CopyComplete
+C:\Users\ju_li\OneDrive\Documentos\Coder Developer\Projeto Prático\2ª Parte\RecipesApp\RecipesApp.DAL\obj\Debug\net5.0\RecipesApp.DAL.dll
+C:\Users\ju_li\OneDrive\Documentos\Coder Developer\Projeto Prático\2ª Parte\RecipesApp\RecipesApp.DAL\obj\Debug\net5.0\refint\RecipesApp.DAL.dll
+C:\Users\ju_li\OneDrive\Documentos\Coder Developer\Projeto Prático\2ª Parte\RecipesApp\RecipesApp.DAL\obj\Debug\net5.0\RecipesApp.DAL.pdb
+C:\Users\ju_li\OneDrive\Documentos\Coder Developer\Projeto Prático\2ª Parte\RecipesApp\RecipesApp.DAL\obj\Debug\net5.0\RecipesApp.DAL.genruntimeconfig.cache
+C:\Users\ju_li\OneDrive\Documentos\Coder Developer\Projeto Prático\2ª Parte\RecipesApp\RecipesApp.DAL\obj\Debug\net5.0\ref\RecipesApp.DAL.dll
+C:\Users\Bruno Ribeiro\OneDrive\RecipesApp\RecipesApp.DAL\bin\Debug\net5.0\RecipesApp.DAL.deps.json
+C:\Users\Bruno Ribeiro\OneDrive\RecipesApp\RecipesApp.DAL\bin\Debug\net5.0\RecipesApp.DAL.runtimeconfig.json
+C:\Users\Bruno Ribeiro\OneDrive\RecipesApp\RecipesApp.DAL\bin\Debug\net5.0\RecipesApp.DAL.runtimeconfig.dev.json
+C:\Users\Bruno Ribeiro\OneDrive\RecipesApp\RecipesApp.DAL\bin\Debug\net5.0\RecipesApp.DAL.dll
+C:\Users\Bruno Ribeiro\OneDrive\RecipesApp\RecipesApp.DAL\bin\Debug\net5.0\RecipesApp.DAL.pdb
+C:\Users\Bruno Ribeiro\OneDrive\RecipesApp\RecipesApp.DAL\bin\Debug\net5.0\RecipesApp.Domain.dll
+C:\Users\Bruno Ribeiro\OneDrive\RecipesApp\RecipesApp.DAL\bin\Debug\net5.0\RecipesApp.Domain.pdb
+C:\Users\Bruno Ribeiro\OneDrive\RecipesApp\RecipesApp.DAL\obj\Debug\net5.0\RecipesApp.DAL.csproj.AssemblyReference.cache
+C:\Users\Bruno Ribeiro\OneDrive\RecipesApp\RecipesApp.DAL\obj\Debug\net5.0\RecipesApp.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno Ribeiro\OneDrive\RecipesApp\RecipesApp.DAL\obj\Debug\net5.0\RecipesApp.DAL.AssemblyInfoInputs.cache
+C:\Users\Bruno Ribeiro\OneDrive\RecipesApp\RecipesApp.DAL\obj\Debug\net5.0\RecipesApp.DAL.AssemblyInfo.cs
+C:\Users\Bruno Ribeiro\OneDrive\RecipesApp\RecipesApp.DAL\obj\Debug\net5.0\RecipesApp.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Bruno Ribeiro\OneDrive\RecipesApp\RecipesApp.DAL\obj\Debug\net5.0\RecipesApp.DAL.csproj.CopyComplete
+C:\Users\Bruno Ribeiro\OneDrive\RecipesApp\RecipesApp.DAL\obj\Debug\net5.0\RecipesApp.DAL.dll
+C:\Users\Bruno Ribeiro\OneDrive\RecipesApp\RecipesApp.DAL\obj\Debug\net5.0\refint\RecipesApp.DAL.dll
+C:\Users\Bruno Ribeiro\OneDrive\RecipesApp\RecipesApp.DAL\obj\Debug\net5.0\RecipesApp.DAL.pdb
+C:\Users\Bruno Ribeiro\OneDrive\RecipesApp\RecipesApp.DAL\obj\Debug\net5.0\RecipesApp.DAL.genruntimeconfig.cache
+C:\Users\Bruno Ribeiro\OneDrive\RecipesApp\RecipesApp.DAL\obj\Debug\net5.0\ref\RecipesApp.DAL.dll
+C:\Users\ju_li\OneDrive\Documentos\Coder Developer\Projeto Prático\2ª Parte\RecipesApp_users\RecipesApp.DAL\bin\Debug\net5.0\RecipesApp.DAL.deps.json
+C:\Users\ju_li\OneDrive\Documentos\Coder Developer\Projeto Prático\2ª Parte\RecipesApp_users\RecipesApp.DAL\bin\Debug\net5.0\RecipesApp.DAL.runtimeconfig.json
+C:\Users\ju_li\OneDrive\Documentos\Coder Developer\Projeto Prático\2ª Parte\RecipesApp_users\RecipesApp.DAL\bin\Debug\net5.0\RecipesApp.DAL.runtimeconfig.dev.json
+C:\Users\ju_li\OneDrive\Documentos\Coder Developer\Projeto Prático\2ª Parte\RecipesApp_users\RecipesApp.DAL\bin\Debug\net5.0\RecipesApp.DAL.dll
+C:\Users\ju_li\OneDrive\Documentos\Coder Developer\Projeto Prático\2ª Parte\RecipesApp_users\RecipesApp.DAL\bin\Debug\net5.0\RecipesApp.DAL.pdb
+C:\Users\ju_li\OneDrive\Documentos\Coder Developer\Projeto Prático\2ª Parte\RecipesApp_users\RecipesApp.DAL\bin\Debug\net5.0\RecipesApp.Domain.dll
+C:\Users\ju_li\OneDrive\Documentos\Coder Developer\Projeto Prático\2ª Parte\RecipesApp_users\RecipesApp.DAL\bin\Debug\net5.0\RecipesApp.Domain.pdb
+C:\Users\ju_li\OneDrive\Documentos\Coder Developer\Projeto Prático\2ª Parte\RecipesApp_users\RecipesApp.DAL\obj\Debug\net5.0\RecipesApp.DAL.csproj.AssemblyReference.cache
+C:\Users\ju_li\OneDrive\Documentos\Coder Developer\Projeto Prático\2ª Parte\RecipesApp_users\RecipesApp.DAL\obj\Debug\net5.0\RecipesApp.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ju_li\OneDrive\Documentos\Coder Developer\Projeto Prático\2ª Parte\RecipesApp_users\RecipesApp.DAL\obj\Debug\net5.0\RecipesApp.DAL.AssemblyInfoInputs.cache
+C:\Users\ju_li\OneDrive\Documentos\Coder Developer\Projeto Prático\2ª Parte\RecipesApp_users\RecipesApp.DAL\obj\Debug\net5.0\RecipesApp.DAL.AssemblyInfo.cs
+C:\Users\ju_li\OneDrive\Documentos\Coder Developer\Projeto Prático\2ª Parte\RecipesApp_users\RecipesApp.DAL\obj\Debug\net5.0\RecipesApp.DAL.csproj.CoreCompileInputs.cache
+C:\Users\ju_li\OneDrive\Documentos\Coder Developer\Projeto Prático\2ª Parte\RecipesApp_users\RecipesApp.DAL\obj\Debug\net5.0\RecipesApp.DAL.csproj.CopyComplete
+C:\Users\ju_li\OneDrive\Documentos\Coder Developer\Projeto Prático\2ª Parte\RecipesApp_users\RecipesApp.DAL\obj\Debug\net5.0\RecipesApp.DAL.dll
+C:\Users\ju_li\OneDrive\Documentos\Coder Developer\Projeto Prático\2ª Parte\RecipesApp_users\RecipesApp.DAL\obj\Debug\net5.0\refint\RecipesApp.DAL.dll
+C:\Users\ju_li\OneDrive\Documentos\Coder Developer\Projeto Prático\2ª Parte\RecipesApp_users\RecipesApp.DAL\obj\Debug\net5.0\RecipesApp.DAL.pdb
+C:\Users\ju_li\OneDrive\Documentos\Coder Developer\Projeto Prático\2ª Parte\RecipesApp_users\RecipesApp.DAL\obj\Debug\net5.0\RecipesApp.DAL.genruntimeconfig.cache
+C:\Users\ju_li\OneDrive\Documentos\Coder Developer\Projeto Prático\2ª Parte\RecipesApp_users\RecipesApp.DAL\obj\Debug\net5.0\ref\RecipesApp.DAL.dll

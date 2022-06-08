@@ -1,0 +1,36 @@
+C:\Users\ju_li\OneDrive\Documentos\Coder Developer\Projeto Prático\2ª Parte\RecipesApp\RecipesApp.Domain\bin\Debug\net5.0\RecipesApp.Domain.deps.json
+C:\Users\ju_li\OneDrive\Documentos\Coder Developer\Projeto Prático\2ª Parte\RecipesApp\RecipesApp.Domain\bin\Debug\net5.0\RecipesApp.Domain.dll
+C:\Users\ju_li\OneDrive\Documentos\Coder Developer\Projeto Prático\2ª Parte\RecipesApp\RecipesApp.Domain\bin\Debug\net5.0\RecipesApp.Domain.pdb
+C:\Users\ju_li\OneDrive\Documentos\Coder Developer\Projeto Prático\2ª Parte\RecipesApp\RecipesApp.Domain\obj\Debug\net5.0\RecipesApp.Domain.csproj.AssemblyReference.cache
+C:\Users\ju_li\OneDrive\Documentos\Coder Developer\Projeto Prático\2ª Parte\RecipesApp\RecipesApp.Domain\obj\Debug\net5.0\RecipesApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ju_li\OneDrive\Documentos\Coder Developer\Projeto Prático\2ª Parte\RecipesApp\RecipesApp.Domain\obj\Debug\net5.0\RecipesApp.Domain.AssemblyInfoInputs.cache
+C:\Users\ju_li\OneDrive\Documentos\Coder Developer\Projeto Prático\2ª Parte\RecipesApp\RecipesApp.Domain\obj\Debug\net5.0\RecipesApp.Domain.AssemblyInfo.cs
+C:\Users\ju_li\OneDrive\Documentos\Coder Developer\Projeto Prático\2ª Parte\RecipesApp\RecipesApp.Domain\obj\Debug\net5.0\RecipesApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ju_li\OneDrive\Documentos\Coder Developer\Projeto Prático\2ª Parte\RecipesApp\RecipesApp.Domain\obj\Debug\net5.0\RecipesApp.Domain.dll
+C:\Users\ju_li\OneDrive\Documentos\Coder Developer\Projeto Prático\2ª Parte\RecipesApp\RecipesApp.Domain\obj\Debug\net5.0\refint\RecipesApp.Domain.dll
+C:\Users\ju_li\OneDrive\Documentos\Coder Developer\Projeto Prático\2ª Parte\RecipesApp\RecipesApp.Domain\obj\Debug\net5.0\RecipesApp.Domain.pdb
+C:\Users\ju_li\OneDrive\Documentos\Coder Developer\Projeto Prático\2ª Parte\RecipesApp\RecipesApp.Domain\obj\Debug\net5.0\ref\RecipesApp.Domain.dll
+C:\Users\Bruno Ribeiro\OneDrive\RecipesApp\RecipesApp.Domain\bin\Debug\net5.0\RecipesApp.Domain.deps.json
+C:\Users\Bruno Ribeiro\OneDrive\RecipesApp\RecipesApp.Domain\bin\Debug\net5.0\RecipesApp.Domain.dll
+C:\Users\Bruno Ribeiro\OneDrive\RecipesApp\RecipesApp.Domain\bin\Debug\net5.0\RecipesApp.Domain.pdb
+C:\Users\Bruno Ribeiro\OneDrive\RecipesApp\RecipesApp.Domain\obj\Debug\net5.0\RecipesApp.Domain.csproj.AssemblyReference.cache
+C:\Users\Bruno Ribeiro\OneDrive\RecipesApp\RecipesApp.Domain\obj\Debug\net5.0\RecipesApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno Ribeiro\OneDrive\RecipesApp\RecipesApp.Domain\obj\Debug\net5.0\RecipesApp.Domain.AssemblyInfoInputs.cache
+C:\Users\Bruno Ribeiro\OneDrive\RecipesApp\RecipesApp.Domain\obj\Debug\net5.0\RecipesApp.Domain.AssemblyInfo.cs
+C:\Users\Bruno Ribeiro\OneDrive\RecipesApp\RecipesApp.Domain\obj\Debug\net5.0\RecipesApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Bruno Ribeiro\OneDrive\RecipesApp\RecipesApp.Domain\obj\Debug\net5.0\RecipesApp.Domain.dll
+C:\Users\Bruno Ribeiro\OneDrive\RecipesApp\RecipesApp.Domain\obj\Debug\net5.0\refint\RecipesApp.Domain.dll
+C:\Users\Bruno Ribeiro\OneDrive\RecipesApp\RecipesApp.Domain\obj\Debug\net5.0\RecipesApp.Domain.pdb
+C:\Users\Bruno Ribeiro\OneDrive\RecipesApp\RecipesApp.Domain\obj\Debug\net5.0\ref\RecipesApp.Domain.dll
+C:\Users\ju_li\OneDrive\Documentos\Coder Developer\Projeto Prático\2ª Parte\RecipesApp_users\RecipesApp.Domain\bin\Debug\net5.0\RecipesApp.Domain.deps.json
+C:\Users\ju_li\OneDrive\Documentos\Coder Developer\Projeto Prático\2ª Parte\RecipesApp_users\RecipesApp.Domain\bin\Debug\net5.0\RecipesApp.Domain.dll
+C:\Users\ju_li\OneDrive\Documentos\Coder Developer\Projeto Prático\2ª Parte\RecipesApp_users\RecipesApp.Domain\bin\Debug\net5.0\RecipesApp.Domain.pdb
+C:\Users\ju_li\OneDrive\Documentos\Coder Developer\Projeto Prático\2ª Parte\RecipesApp_users\RecipesApp.Domain\obj\Debug\net5.0\RecipesApp.Domain.csproj.AssemblyReference.cache
+C:\Users\ju_li\OneDrive\Documentos\Coder Developer\Projeto Prático\2ª Parte\RecipesApp_users\RecipesApp.Domain\obj\Debug\net5.0\RecipesApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ju_li\OneDrive\Documentos\Coder Developer\Projeto Prático\2ª Parte\RecipesApp_users\RecipesApp.Domain\obj\Debug\net5.0\RecipesApp.Domain.AssemblyInfoInputs.cache
+C:\Users\ju_li\OneDrive\Documentos\Coder Developer\Projeto Prático\2ª Parte\RecipesApp_users\RecipesApp.Domain\obj\Debug\net5.0\RecipesApp.Domain.AssemblyInfo.cs
+C:\Users\ju_li\OneDrive\Documentos\Coder Developer\Projeto Prático\2ª Parte\RecipesApp_users\RecipesApp.Domain\obj\Debug\net5.0\RecipesApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ju_li\OneDrive\Documentos\Coder Developer\Projeto Prático\2ª Parte\RecipesApp_users\RecipesApp.Domain\obj\Debug\net5.0\RecipesApp.Domain.dll
+C:\Users\ju_li\OneDrive\Documentos\Coder Developer\Projeto Prático\2ª Parte\RecipesApp_users\RecipesApp.Domain\obj\Debug\net5.0\refint\RecipesApp.Domain.dll
+C:\Users\ju_li\OneDrive\Documentos\Coder Developer\Projeto Prático\2ª Parte\RecipesApp_users\RecipesApp.Domain\obj\Debug\net5.0\RecipesApp.Domain.pdb
+C:\Users\ju_li\OneDrive\Documentos\Coder Developer\Projeto Prático\2ª Parte\RecipesApp_users\RecipesApp.Domain\obj\Debug\net5.0\ref\RecipesApp.Domain.dll
