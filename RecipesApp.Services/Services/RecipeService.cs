@@ -97,6 +97,35 @@ namespace RecipesApp.Services.Services
             {
                 return null;
             }
+
+            //Não repetir ingredientes
+            var fixed_ingredients = new List<Ingredient>();
+
+            foreach (var ingredient in recipe.Ingredients)
+            {
+                var existing = (await _ingredientRepository.GetByName(ingredient.NameIngredient)).FirstOrDefault();
+                if (existing != null)
+                {
+                    fixed_ingredients.Add(existing);
+                }
+                else fixed_ingredients.Add(ingredient);
+            }
+            recipe.Ingredients = fixed_ingredients;
+
+            //Não repetir categorias
+            var fixed_categories = new List<Category>();
+
+            foreach (var category in recipe.Categories)
+            {
+                var existing = (await _categoryRepository.GetByName(category.Name)).FirstOrDefault();
+                if (existing != null)
+                {
+                    fixed_categories.Add(existing);
+                }
+                else fixed_categories.Add(category);
+            }
+            recipe.Categories = fixed_categories;
+
             await _repository.Update(recipe);
             return recipe;
         }

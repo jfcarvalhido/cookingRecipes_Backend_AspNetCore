@@ -7,7 +7,7 @@ namespace RecipesApp.Domain.Entities
     public class Category : Entity
     {
         #region "Propriedades"
-        [MaxLength(100), MinLength(5)]
+        [MaxLength(100), MinLength(2)]
         public string Name { get; set; }
         #endregion
 

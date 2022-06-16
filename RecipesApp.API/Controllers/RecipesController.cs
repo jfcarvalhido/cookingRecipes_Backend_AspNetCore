@@ -66,13 +66,13 @@ namespace RecipesApp.API.Controllers
         [Route("Update/{id}")]
         [ProducesResponseType(StatusCodes.Status200OK)]
         [ProducesResponseType(StatusCodes.Status400BadRequest)]
-        public async Task<IActionResult> Update(int id, RecipeEditDto recipeDto)
+        public async Task<IActionResult> Update(int id, Recipe recipeDto)
         {
-            if (id != recipeDto.RecipeId) return BadRequest();
+            if (id != recipeDto.Id) return BadRequest();
 
             if (!ModelState.IsValid) return BadRequest();
 
-            await _recipeService.Update(_mapper.Map<Recipe>(recipeDto));
+            await _recipeService.Update(recipeDto);
 
             return Ok(recipeDto);
         }

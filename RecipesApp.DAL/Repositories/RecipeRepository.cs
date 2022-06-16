@@ -87,7 +87,20 @@ namespace RecipesApp.DAL.Repositories
         }
         public async Task Update(Recipe recipe)
         {
-            recipes.Update(recipe);
+            Recipe exist = recipes
+                .Include(r => r.Categories)
+                .Include(r => r.Ingredients)
+                .Single(r => r.Id == recipe.Id);
+
+            Db.Entry(exist).CurrentValues.SetValues(recipe);
+
+            exist.Ingredients.Clear();
+            foreach (var i in recipe.Ingredients) exist.Ingredients.Add(i);
+
+            exist.Categories.Clear();
+            foreach (var c in recipe.Categories) exist.Categories.Add(c);
+
+            recipes.Update(exist);
             await SaveChanges();
         }
     }
