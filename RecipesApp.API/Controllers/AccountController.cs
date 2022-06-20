@@ -24,11 +24,7 @@ namespace RecipesApp.API.Controllers
             _userManager = userManager;
             _signInManager = signInManager;           
         }
-
-        //public IActionResult Register()
-        //{
-        //    return View();
-        //}
+        
 
         [HttpPost]
         [Route("Register")]
@@ -87,6 +83,8 @@ namespace RecipesApp.API.Controllers
             //return View(model);
         }
 
+        [HttpPost]
+        [Route("Logout")]
         public async Task<IActionResult> Logout()
         {
             await _signInManager.SignOutAsync();

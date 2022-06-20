@@ -10,8 +10,8 @@ using RecipesApp.DAL.Context;
 namespace RecipesApp.DAL.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20220602154702_mg1")]
-    partial class mg1
+    [Migration("20220617155649_firstMigration")]
+    partial class firstMigration
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
@@ -43,18 +43,8 @@ namespace RecipesApp.DAL.Migrations
                         },
                         new
                         {
-                            RecipesId = 1,
-                            CategoriesId = 11
-                        },
-                        new
-                        {
                             RecipesId = 2,
                             CategoriesId = 7
-                        },
-                        new
-                        {
-                            RecipesId = 2,
-                            CategoriesId = 12
                         },
                         new
                         {
@@ -754,16 +744,6 @@ namespace RecipesApp.DAL.Migrations
                         {
                             Id = 10,
                             Name = "Desserts"
-                        },
-                        new
-                        {
-                            Id = 11,
-                            Name = "Argentina"
-                        },
-                        new
-                        {
-                            Id = 12,
-                            Name = "Italian"
                         });
                 });
 

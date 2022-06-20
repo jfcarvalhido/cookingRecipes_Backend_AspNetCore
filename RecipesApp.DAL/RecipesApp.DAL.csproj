@@ -24,4 +24,8 @@
     <ProjectReference Include="..\RecipesApp.Domain\RecipesApp.Domain.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Migrations\" />
+  </ItemGroup>
+
 </Project>

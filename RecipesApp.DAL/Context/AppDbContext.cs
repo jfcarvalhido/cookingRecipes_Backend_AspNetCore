@@ -42,7 +42,7 @@ namespace RecipesApp.DAL.Context
                 ( new Category { Id = 1, Name = "Appetizers" }, new Category { Id = 2, Name = "Soups" }, new Category { Id = 3, Name = "Beef" },
                   new Category { Id = 4, Name = "Chicken" }, new Category { Id = 5, Name = "Pork" }, new Category { Id = 6, Name = "Seafood" },
                   new Category { Id = 7, Name = "Pasta" }, new Category { Id = 8, Name = "Vegetarian" }, new Category { Id = 9, Name = "Salads" },
-                  new Category { Id = 10, Name = "Desserts" }, new Category { Id = 11, Name = "Argentina" }, new Category { Id = 12, Name = "Italian" });
+                  new Category { Id = 10, Name = "Desserts" });
 
             modelBuilder.Entity<Ingredient>()
                 .HasData
@@ -151,8 +151,8 @@ namespace RecipesApp.DAL.Context
                     je =>
                     {
                         je.HasKey("RecipesId", "CategoriesId");
-                        je.HasData( new { RecipesId = 1, CategoriesId = 4 }, new { RecipesId = 1, CategoriesId = 11 }, new { RecipesId = 2, CategoriesId = 7 },
-                                    new { RecipesId = 2, CategoriesId = 12 }, new { RecipesId = 3, CategoriesId = 10 }, new { RecipesId = 4, CategoriesId = 3 },
+                        je.HasData( new { RecipesId = 1, CategoriesId = 4 }, new { RecipesId = 2, CategoriesId = 7 },
+                                    new { RecipesId = 3, CategoriesId = 10 }, new { RecipesId = 4, CategoriesId = 3 },
                                     new { RecipesId = 5, CategoriesId = 8 }, new { RecipesId = 6, CategoriesId = 6 });
                     });
 
