@@ -3,6 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 using Moq;
 using RecipesApp.API.Controllers;
 using RecipesApp.Domain.Entities;
+using RecipesApp.Domain.Models.Recipes;
 using RecipesApp.Services.Interfaces;
 using System.Collections.Generic;
 using Xunit;
@@ -11,14 +12,15 @@ namespace RecipesApp.UnitTests
 {
     public class RecipesControllerTests
     {
-        private readonly Mock<IRecipeService> _mockRepo;
+        private readonly Mock<IRecipeService> _mockService;
+        private readonly Mock<IMapper> _mockMapper;
         private readonly RecipesController _controller;
-        private readonly IMapper _mapper;
 
         public RecipesControllerTests()
         {
-            _mockRepo = new Mock<IRecipeService>();
-            _controller = new RecipesController(_mockRepo.Object, _mapper);
+            _mockService = new Mock<IRecipeService>();
+            _mockMapper = new Mock<IMapper>();
+            _controller = new RecipesController(_mockService.Object, _mockMapper.Object);
         }
 
         [Fact]
@@ -27,25 +29,30 @@ namespace RecipesApp.UnitTests
             IList<Recipe> listRecipes = new List<Recipe>() 
             { new Recipe(), new Recipe(), new Recipe(), new Recipe(), new Recipe(), new Recipe() }; 
 
-            _mockRepo.Setup(repo => repo.GetAll()).ReturnsAsync(listRecipes);
+            _mockService.Setup(repo => repo.GetAll()).ReturnsAsync(listRecipes);
 
             var result = _controller.GetAll().Result;
             var viewResult = Assert.IsType<OkObjectResult>(result);
             var recipes = Assert.IsType<List<Recipe>>(viewResult.Value);
 
             Assert.Equal(6, recipes.Count);            
-        }    
-
-        [Fact]
-        public void Create_ActionExecutes_ReturnRecipeOk()
-        {
-
         }
 
         [Fact]
-        public void Create_InValidModel_CreateRecipeNeverExecute()
+        public void Create_ActionExecutes_ReturnBadObjectResult()
         {
+            var recipeDto = new RecipeAddDto()
+            {
+                Title = "Test 1",
+                Serving = 4,
+                Difficulty = Difficulty.easy,
+                CookingTime = 40,
+                Preparation = "Preheat oven to 400 degrees F (200 degrees C)..."
+            };
 
+            var result = _controller.Add(recipeDto).Result;
+
+            Assert.IsType<BadRequestResult>(result);
         }
     }
 }

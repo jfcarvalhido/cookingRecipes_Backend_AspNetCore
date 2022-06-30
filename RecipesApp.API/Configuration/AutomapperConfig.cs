@@ -1,5 +1,4 @@
 ﻿using AutoMapper;
-using RecipesApp.API.Dtos.Recipes;
 using RecipesApp.Domain.Entities;
 using RecipesApp.Domain.Models.Recipes;
 using RecipesApp.Domain.Models.Users;
@@ -10,6 +9,9 @@ namespace RecipesApp.API.Configuration
     {
         public AutomapperConfig()
         {
+            //Recipe -> Create a new recipe
+            CreateMap<Recipe, RecipeAddDto>().ReverseMap();
+
             // User -> AuthenticateResponse
             CreateMap<User, LoginModel>().ReverseMap();
 
@@ -28,12 +30,6 @@ namespace RecipesApp.API.Configuration
             //            return true;
             //        }
             //    ));
-
-            CreateMap<Recipe, RecipeAddDto>().ReverseMap();
-            CreateMap<Recipe, RecipeEditDto>().ReverseMap();
-            //CreateMap<Recipe, RecipeResultDto>().ReverseMap();
-
         }
-
     }
 }

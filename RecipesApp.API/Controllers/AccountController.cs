@@ -1,10 +1,6 @@
-﻿using AutoMapper;
-using Microsoft.AspNetCore.Authorization;
+﻿using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
-using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.AspNetCore.Mvc;
-using RecipesApp.DAL.Context;
-using RecipesApp.DAL.Repositories;
 using RecipesApp.Domain.Entities;
 using RecipesApp.Domain.Models.Users;
 using System.Linq;
@@ -12,8 +8,8 @@ using System.Threading.Tasks;
 
 namespace RecipesApp.API.Controllers
 {
-    //[Route("api/[controller]")]
-    //[ApiController]    
+    [Route("api/[controller]")]
+    [ApiController]    
     public class AccountController : Controller
     {
         private readonly UserManager<User> _userManager;

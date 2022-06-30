@@ -16,13 +16,14 @@ namespace RecipesApp.Domain.Models.Recipes
         [Required(ErrorMessage = "Recipe serving´s cannot be empty")]
         public int Serving { get; set; }
 
+        [Required]
         public Difficulty Difficulty { get; set; }
 
         [Required(ErrorMessage = "Recipe cooking time cannot be empty")]
         public int CookingTime { get; set; }
 
+        [Required]
         public IEnumerable<Ingredient> Ingredients { get; set; } = new List<Ingredient>();
-
 
         [Required(ErrorMessage = "Recipe preparation´s cannot be empty")]
         [MaxLength(3000), MinLength(5)]

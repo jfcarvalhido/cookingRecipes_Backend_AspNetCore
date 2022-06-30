@@ -1,7 +1,6 @@
 ﻿using AutoMapper;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using RecipesApp.API.Dtos.Recipes;
 using RecipesApp.Domain.Entities;
 using RecipesApp.Domain.Models.Recipes;
 using RecipesApp.Services.Interfaces;
@@ -89,7 +88,7 @@ namespace RecipesApp.API.Controllers
             await _recipeService.Remove(recipe);
 
             return Ok();
-        }
+        }        
 
         [HttpGet]
         [Route("SearchByName/{title}")]
@@ -105,7 +104,7 @@ namespace RecipesApp.API.Controllers
         }
 
         [HttpGet]
-        [Route("SearchByIngredient")]
+        [Route("SearchByIngredient/{nameIngredient}")]
         [ProducesResponseType(StatusCodes.Status200OK)]
         [ProducesResponseType(StatusCodes.Status404NotFound)]
         public async Task<ActionResult<List<Recipe>>> SearchByIngredient(string nameIngredient)

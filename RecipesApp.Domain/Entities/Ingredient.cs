@@ -1,12 +1,14 @@
 ﻿using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.Text.Json.Serialization;
 
 namespace RecipesApp.Domain.Entities
 {
     public class Ingredient : Entity
     {
-        #region "Propriedades"        
+        #region "Propriedades"  
 
+        [MaxLength(100), MinLength(2)]
         public string NameIngredient { get; set; }
 
 
